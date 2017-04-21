@@ -14,11 +14,13 @@
 	<div class='area'>
 		<div class='charCreate'>
 			<legend>Character Creation</legend>
-		<form action="mech.php" method="post">
+		<form>
 		<table>
 			<tr>
 				<td>
-				<label>Name</label>
+				Name
+				</td>
+				<td>
 				<input type='text'/>
 				</td>
 			</tr>
@@ -32,16 +34,6 @@
 				</select>
 				</td>
 			<tr>
-			<tr>
-				<td>
-				Board Size:<select name="BoardSize" id="BoardSize">
-				<option>300 X 400</option>
-				<option>400 X 500</option>
-				<option>500 X 600</option>
-				<option>700 X 600</option>
-				</select>
-				</td>
-			</tr>
 		</table>
 		</form>
 		</div>
@@ -55,8 +47,10 @@
 		</div>
 	</div>
 </div>
-<?php
-	require('footer.php');
-?>
 </body>
+
+<footer class='footer'>
+
+</footer>
+
 </html>

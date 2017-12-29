@@ -1,0 +1,5 @@
+c:\users\garrett\documents\visual studio 2013\Projects\Game\Game\bin\Debug\Game.jar
+c:\users\garrett\documents\visual studio 2013\Projects\Game\Game\obj\Debug\Game$MouseControl.class
+c:\users\garrett\documents\visual studio 2013\Projects\Game\Game\obj\Debug\Game$1.class
+c:\users\garrett\documents\visual studio 2013\Projects\Game\Game\obj\Debug\Game.class
+c:\users\garrett\documents\visual studio 2013\Projects\Game\Game\obj\Debug\Game.jar
